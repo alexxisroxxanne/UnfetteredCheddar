@@ -20,7 +20,6 @@
 
 ## Usage
 
-> To use Gobbler, please visit www.gobblerweb.com.
 >
 > Click [here](https://github.com/UnfetteredCheddar/UnfetteredCheddar/blob/master/PRESS-RELEASE.md) for more information about the project.
 
@@ -40,7 +39,7 @@ curl https://install.meteor.com/ | sh
 
 ### Setting up the Dev Environment
 If you HAVE NOT set up the settings.json file:
-To start up your local server and database without creating the settings.json file, which is used to send email notifications, enter the command 
+To start up your local server and database without creating the settings.json file, which is used to send email notifications, enter the command
 ```sh
 meteor
 ```
